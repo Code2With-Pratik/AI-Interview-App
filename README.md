@@ -1,6 +1,8 @@
 # InterviewAI
 
-<img width="1900" height="1077" alt="image" src="https://github.com/user-attachments/assets/2ba445b4-cd21-48b8-9b0e-12b9df7413d0" />
+<a href="https://ai-interview-app-silk.vercel.app/">
+  <img width="1900" height="1077" alt="InterviewAI homepage — click to open the live app" src="https://github.com/user-attachments/assets/2ba445b4-cd21-48b8-9b0e-12b9df7413d0" />
+</a>
 
 
 InterviewAI is an AI-powered interview practice platform built with Next.js. Users can create accounts, prepare interviews from a resume or job description, answer questions by voice or text, and receive Gemini-generated feedback and ratings.
